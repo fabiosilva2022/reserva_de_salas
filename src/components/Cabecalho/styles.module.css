@@ -1,0 +1,9 @@
+.container{
+    background-color: #3a56aa;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    color:white;
+    min-width: 100%;
+}
